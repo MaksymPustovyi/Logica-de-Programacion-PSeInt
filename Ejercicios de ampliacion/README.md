@@ -1,4 +1,4 @@
-Ejercicios de ampliación (Pagina 160)
+Ejercicios de ampliación (Pagina 160 de "Introducción a la programación")
 
 1. Dado un número calcular el producto de los dígitos distintos de cero.
 
